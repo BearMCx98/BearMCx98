@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gianluca Gragnaniello</h1>
 <h3 align="center">A passionate Deep Learning researcher from Italy</h3>
 
+ I'm completing my master's thesis in the University of Milan
+
 - 🔭 I’m currently working on **Deep learning models for semantic segmentation in the biomedical field for CNR-ITB**
 
 - 🌱 I’m currently experimenting **with Diffusion models like DallE-2 and Stable Diffusion!**
