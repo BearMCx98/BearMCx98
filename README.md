@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianluca Gragnaniello</h1>
 <h3 align="center">A passionate Deep Learning researcher from Italy</h3>
 
- I'm completing my master's thesis in the University of Milan
+ I've just completed my Master's degree in Bioinformatics at University of Milan and Politecnico
 
 - 🔭 I’m currently working on **Deep learning models for semantic segmentation in the biomedical field for CNR-ITB**
 
