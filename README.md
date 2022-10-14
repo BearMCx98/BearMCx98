@@ -7,7 +7,7 @@
 
 - 🌱 Experimenting **with Diffusion models like DallE-2 and Stable Diffusion!**
 
-- 📫 How to reach me: **armgia.fight@gmail.com**
+- 📫 How to reach me: **GianlucaG98@proton.me**
 
 <h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/gianluca-gragnaniello/
 <p align="left">
