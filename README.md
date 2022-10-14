@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **armgia.fight@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/gianluca-gragnaniello/
 <p align="left">
 </p>
 
