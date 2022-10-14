@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep learning models for semantic segmentation in the biomedical field for CNR-ITB**
 
-- 🌱 I’m currently experimenting **with Diffusion models like DallE-2 and Stable Diffusion!**
+- 🌱 Experimenting **with Diffusion models like DallE-2 and Stable Diffusion!**
 
 - 📫 How to reach me: **armgia.fight@gmail.com**
 
