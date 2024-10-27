@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gianluca Gragnaniello</h1>
 <h3 align="center">A passionate Deep Learning researcher from Italy</h3>
 
- I've just completed my Master's degree in Bioinformatics at the University of Milan and Politecnico
+ I'm a researcher in applied Machine Learning for biomedical imaging at Policlinico Universitario Agostino Gemelli (Rome)
 
-- 🔭 I’m currently working on **Deep learning models for semantic segmentation in the biomedical field for CNR-ITB**
+- 🔭 I published a paper on [**"Targeted therapy and deep learning insights into microglia modulation for spinal cord injury"**](https://www.sciencedirect.com/science/article/pii/S2590006424001765)
 
-- 🌱 Experimenting **with Diffusion models like DallE-2 and Stable Diffusion!**
+- 🌱 Previously worked as a Data Scientist at SI2001
 
-- 📫 How to reach me: **GianlucaG98@proton.me**
+- 📫 How to reach me: **research.platter327 at passinbox.com** 
 
 <h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/gianluca-gragnaniello/
 <p align="left">
